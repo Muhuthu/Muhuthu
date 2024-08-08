@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Muhuthu
 - 👀 I’m interested in intercting with other developers and sharing ideas..
-- 🌱 I’m currently equiped with web-development using html, css, and javascript
+- 🌱 I’m currently equiped with skills in mobile application programming using flutter framework
+     and web-development using html, css, and javascript
      I'm also learning python libraries ie flask, numpy and pandas.....
      Also I'm an undergraduate in Dedan Kimathi university of Technology taking
-     Bachelor of Science in Information Technology also  I'm invovled in my machine learning club at my school
+     Bachelor of Science in Information Technology.
 
 - 💞️ I’m looking to collaborate with people intruged in problem solving and have the skills
      to do so and 

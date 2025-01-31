@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Muhuthu
+# - 👋 Hi, I’m Ian Muhuthu
 - 👀 I’m interested in intercting with other developers and sharing ideas..
 - 🌱 I’m currently equiped with skills in mobile application programming using flutter framework
      and web-development using html, css, and javascript

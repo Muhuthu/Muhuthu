@@ -1,8 +1,7 @@
 # - 👋 Hi, I’m Ian Muhuthu
 - 👀 I’m interested in intercting with other developers and sharing ideas..
 - 🌱 I’m currently equiped with skills in mobile application programming using flutter framework
-     and web-development using html, css, and javascript
-     I'm also learning python libraries ie flask, numpy and pandas.....
+     and MERN stack... web-development using html, css, and javascript     
      Also I'm an undergraduate in Dedan Kimathi university of Technology taking
      Bachelor of Science in Information Technology.
 
